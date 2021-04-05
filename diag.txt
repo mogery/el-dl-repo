@@ -1,0 +1,19 @@
+
+  Expo CLI 4.3.4 environment info:
+    System:
+      OS: Linux 5.11 Pop!_OS 20.10
+      Shell: 5.0.17 - /bin/bash
+    Binaries:
+      Node: 12.22.0 - /usr/bin/node
+      Yarn: 1.22.10 - /usr/bin/yarn
+      npm: 7.8.0 - /usr/bin/npm
+    npmPackages:
+      expo: ~40.0.0 => 40.0.1 
+      react: 16.13.1 => 16.13.1 
+      react-dom: 16.13.1 => 16.13.1 
+      react-native: ~0.63.4 => 0.63.4 
+      react-native-web: ~0.13.12 => 0.13.18 
+    npmGlobalPackages:
+      expo-cli: 4.3.4
+    Expo Workflow: bare
+
